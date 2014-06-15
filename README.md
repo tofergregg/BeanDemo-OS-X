@@ -13,7 +13,9 @@ You can change the scratch values by double-clicking on them in the scratch tabl
 # Known Bugs
 
 There are a couple of bugs -- 
+
 1. Disconnecting sometimes causes an exception. I believe this has to do with some thread safety issues, but I haven't figured them out yet.
+
 2. The window is a bit cramped, but I was getting frustrated with Interface Builder, so I haven't adjusted it properly.
 
 # Licensing
